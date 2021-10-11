@@ -7,11 +7,6 @@ configDONTSHAREGITHUB.py
 API_practice.ipynb
 random_numbers.ipynb
 
-var config2 = {
-weather_api_key: "4f7c58016ee71425c83a56c2d00ab365",
-g_key: "AIzaSyAW5YgVzcGg_Tq9BeJVVpLQmbMhVyDSQ_U",
-weather_api_key="b9b485c465062a38450c2b490be840a3",
-}
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
